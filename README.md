@@ -1,34 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Sebastian%20Kaul&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Chemistry%20%C2%B7%20Linux%20%C2%B7%20DevOps&descSize=22&descAlignY=62" alt="header" />
+<a href="https://github.com/sebkaul">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=900&height=90&lines=Sebastian+Kaul;Chemistry+%C2%B7+Linux+%C2%B7+DevOps;DevOps+Team+Lead+%40+OrbitNTNU" alt="header" />
+</a>
 
 </div>
 
 ---
 
-### 🧑‍🚀 About Me
-
-Chemical engineering student who ended up more into computers than chemistry. **DevOps Team Lead at [OrbitNTNU](https://www.orbitntnu.com/)** — running infra for our student satellite work. 🛰️ Currently going deeper into Linux and leaning toward independent, self-hosted solutions wherever I can.
-
----
+<table align="center">
+<tr>
+  <td valign="top" align="center">
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,arch,debian,bash,git,python,neovim,vim,html,css&perline=4" alt="Tech Stack" />
 
-![Tech Stack](https://skillicons.dev/icons?i=docker,nginx,linux,arch,debian,bash,git,python,neovim,vim,html,css&perline=6)
-
-</div>
-
----
+  </td>
+  <td valign="top" align="center">
 
 ### 📚 Learning
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,lua,nix&perline=4" alt="Learning" />
 
-![Learning](https://skillicons.dev/icons?i=js,ts,react,nodejs,go,lua,nix&perline=7)
-
-</div>
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -37,6 +34,6 @@ Chemical engineering student who ended up more into computers than chemistry. **
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebkaul/)
-[![Website](https://img.shields.io/badge/sebk.no-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sebk.no)
+[![Website](https://img.shields.io/badge/sebk.no-39D353?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sebk.no)
 
 </div>
