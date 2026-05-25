@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/sebkaul">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sebastian+%F0%9F%91%8B;Chemical+Engineering+Student;DevOps+Team+Lead+%40+OrbitNTNU;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sebkaul&label=Profile%20Views&color=58a6ff&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=220&section=header&text=Sebastian%20Kaul&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Chemistry%20%C2%B7%20Linux%20%C2%B7%20DevOps&descSize=22&descAlignY=62" alt="header" />
 
 </div>
 
@@ -20,7 +16,7 @@ Chemical engineering student who ended up more into computers than chemistry. **
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,docker,nginx,arch,debian,ubuntu,linux,git,neovim,vim,bash,html,css&perline=7)
+![Tech Stack](https://skillicons.dev/icons?i=docker,nginx,linux,arch,debian,bash,git,python,neovim,vim,html,css&perline=6)
 
 </div>
 
