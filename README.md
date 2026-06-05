@@ -14,14 +14,14 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,arch,debian,bash,git,python,neovim,vim,html,css&perline=4" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,arch,obsidian,bash,git,python,neovim,vim,html,css&perline=4" alt="Tech Stack" />
 
   </td>
   <td valign="top" align="center">
 
 ### 📚 Learning
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,vite,nodejs,go,lua,nix&perline=4" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,vite,nodejs,go,lua,nix,bsd,cloudflare,kubernetes&perline=4" alt="Learning" />
 
   </td>
 </tr>
