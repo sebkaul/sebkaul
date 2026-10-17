@@ -21,7 +21,7 @@
 
 ### 📚 Learning
 
-<img src="https://skillicons.dev/icons?i=ansible,ts,react,gitops,vite,nodejs,go,lua,nix,bsd,c,kubernetes&perline=4" alt="Learning" />
+<img src="https://skillicons.dev/icons?i=ansible,ts,react,openstack,vite,nodejs,go,lua,nix,bsd,c,kubernetes&perline=4" alt="Learning" />
 
   </td>
 </tr>
