@@ -21,6 +21,7 @@
 
 ---
 
+<!-- 
 <table align="center">
 <tr>
   <td valign="top" align="center">
@@ -39,5 +40,4 @@
   </td>
 </tr>
 </table>
-
-
+-->
