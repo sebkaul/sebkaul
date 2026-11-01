@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/sebkaul">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=900&height=90&lines=Sebastian+Kaul;Chemistry+%C2%B7+Linux+%C2%B7+DevOps;DevOps+Team+Lead+%40+OrbitNTNU" alt="header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=900&height=90&lines=Sebastian+Kaul;Chemistry+%C2%B7+Linux+%C2%B7+DevOps;DevOps+Team+Lead+%40+OrbitNTNU;Platform+Engineer+%40+NORSTEC" alt="header" />
 </a>
 
 </div>
