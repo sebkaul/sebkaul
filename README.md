@@ -29,21 +29,23 @@
 
 ---
 
-### 🎏 My Koi
-
-<div align="center">
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
-
-</div>
-
----
+<table align="center">
+<tr>
+  <td valign="middle" align="center">
 
 ### 🔗 Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebkaul/)
+<br />
 [![Website](https://img.shields.io/badge/sebk.no-39D353?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sebk.no)
 
-</div>
+  </td>
+  <td valign="middle" align="center">
+
+### 🎏 My Koi
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+  </td>
+</tr>
+</table>
