@@ -29,6 +29,16 @@
 
 ---
 
+### 🎏 My Koi
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+</div>
+
+---
+
 ### 🔗 Connect With Me
 
 <div align="center">
